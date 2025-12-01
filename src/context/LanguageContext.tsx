@@ -21,7 +21,6 @@ export const translations = {
         "hero.greeting": "Hi, I'm",
         "hero.description": "Software Engineer transitioning to AI & Machine Learning. I build scalable applications and explore intelligent solutions.",
         "hero.contact": "Contact Me",
-        "hero.download": "Download CV",
         "about.title": "About",
         "about.me": "Me",
         "about.p1": "Software Engineer with over 3 years of experience in developing scalable applications, optimizing systems and databases, and building robust APIs. Currently transitioning into Artificial Intelligence and Machine Learning.",

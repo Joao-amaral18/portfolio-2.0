@@ -93,13 +93,6 @@ const Hero = () => {
                         >
                             {t('hero.contact')} <ArrowRight size={18} />
                         </a>
-                        <a
-                            href="/cv.pdf"
-                            download
-                            className="px-8 py-3 bg-gruv-bg-soft hover:bg-gruv-bg-medium text-gruv-fg rounded-full font-medium transition-all flex items-center gap-2 border border-gruv-bg-medium hover:border-gruv-gray/20"
-                        >
-                            {t('hero.download')} <Download size={18} />
-                        </a>
                     </div>
                 </motion.div>
 
